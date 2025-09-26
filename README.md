@@ -8,3 +8,6 @@ Profile picture with circular styling
 Name, location, and bio centered with proper spacing
 Social media links styled as interactive cards
 Fully responsive design for desktop and mobile
+
+# Live-preview Netlify Link:
+https://ubiquitous-taiyaki-2dbf59.netlify.app/
